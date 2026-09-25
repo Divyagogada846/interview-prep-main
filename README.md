@@ -154,4 +154,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 Divya Gogada - divyagogada14@gmail.com
 
-Project Link: [https://github.com/divyagogada846/prepwise](https://github.com/divyagogada846/prepwise)
