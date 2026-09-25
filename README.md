@@ -152,6 +152,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Sai Guggila - guggillaprakash161@gmail.com
+Divya Gogada - divyagogada14@gmail.com
 
-Project Link: [https://github.com/saiguggilla2004/prepwise](https://github.com/saiguggilla2004/prepwise)
+Project Link: [https://github.com/divyagogada846/prepwise](https://github.com/divyagogada846/prepwise)
